@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurencyConvertor</string>
+    <string-array name="unit_arrays">
+        <item>kg to pound</item>
+        <item>pound to kg</item>
+        <item>celsius to fahrenheit</item>
+        <item>fahrenheit to celsius </item>
+        <item>km to yard </item>
+        <item>yard to km </item>
+    </string-array>
+</resources>
